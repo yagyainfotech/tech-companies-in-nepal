@@ -280,7 +280,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Worldlink Communications Pvt. Ltd.](https://worldlink.com.np/) | Jawalakhel, Lalitpur | Complete IT service provider providing services such as data connectivity, network integration and consulting, web hosting, hardware sales and maintenance
 
 ## Y - \#
-
+- [Yagya InfoTech ](https://yagya.tech/) | Dhulikhel, Nepal | School Management Software, Customer Relationship Management, Web & Mobile Application.
 - [YAJ Tech Pvt. Ltd.](https://yajtechnologies.com/) | Kamaladi, Kathmandu | Innovative software development, web design & web hosting company aimed at making people, their lives and business better and smarter
 - [Yarsa Labs](https://yarsa.io/) | Zero Kilometer, Pokhara | Building and distributing high quality software applications for mobile and the web
 - [Yellow Nepal Pvt. Ltd. (Fawesome Apps)](https://fawesomeapps.com/) | Putalisadak, Kathmandu | We provide companies with senior tech talents and product development expertise to build world-class software
